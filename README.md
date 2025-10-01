@@ -25,10 +25,10 @@
 Суть игры заключается в том, что игрок управляет змейкой, которая движется по игровому полю, разделённому на клетки.
 Цель игры — увеличивать длину змейки, «съедая» появляющиеся на экране яблоки (часто изображаемые в виде точек или других символов).
 
-![Главное меню](https://disk.yandex.ru/i/RxNtbX3EZiRklA "Главное меню")
-![Процесс игры](https://disk.yandex.ru/i/w8w4ZpkfC3CwAQ "Процесс игры")
+<img src="screenshots/PythonMenu2.png" width="350"/> <img src="screenshots/PythonGameplay2.png" width="350"/>
 
-Авторы проекта:
+
+***Авторы проекта:***
 
 Гурин Валерий - (GitHub - [FuntikPiggy](https://github.com/FuntikPiggy))
 
