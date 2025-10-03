@@ -1,19 +1,17 @@
 <a name="Start-point"></a>
-# The snake
+# The snake<img align="right" width="60" height="60" alt="python_game" src="https://github.com/user-attachments/assets/d7d93d37-1303-4e6c-8a3f-10a63f639b45" />
+
 
 <p align="right" style="font-size: 10px;">
 <i>Каждый разработчик хотя бы раз должен написать змейку!</i><br><b>Народная мудрость</b> :)
 </p>
 
-**********
-### [О проекте.](#about)
-- #### [Описание проекта](#description)
-- #### [Правила игры](#rules)
-- #### [Технические подробности](#stack)
-**********
-### [Как запустить проект.](#How-to-run)
-**********
-### [Я просто хочу поиграть!!!](#Just-play)
+- ### [О проекте.](#about)
+    - #### [Описание проекта](#description)
+    - #### [Правила игры](#rules)
+    - #### [Технические подробности](#stack)
+- ### [Как запустить проект.](#How-to-run)
+- ### [Я просто хочу поиграть!!!](#Just-play)
 **********
 
 
@@ -31,7 +29,7 @@
 
 ***Авторы проекта:***
 
-Гурин Валерий - (GitHub - [FuntikPiggy](https://github.com/FuntikPiggy))
+Гурин Валерий - ([GitHub](https://github.com/FuntikPiggy), [Telegram](https://t.me/CallSign_Yakuza))
 
 
 <a name="rules"></a>
