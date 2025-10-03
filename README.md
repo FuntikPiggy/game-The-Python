@@ -24,7 +24,11 @@
 Суть игры заключается в том, что игрок управляет змейкой, которая движется по игровому полю, разделённому на клетки.
 Цель игры — увеличивать длину змейки, «съедая» появляющиеся на экране яблоки (часто изображаемые в виде точек или других символов).
 
-<img src="screenshots/PythonMenu2.png" width="350"/> <img src="screenshots/PythonGameplay2.png" width="350"/>
+<img width="400" height="300" alt="PythonMenu__02" src="https://github.com/user-attachments/assets/4d84296f-a8a1-4487-8cbb-cbfba3ee4a79" />
+<img width="400" height="300" alt="PythonGameplay__02" src="https://github.com/user-attachments/assets/a778d9e9-4778-4fa1-bcb2-da21a6bd1b2e" />
+
+
+
 
 
 ***Авторы проекта:***
