@@ -92,6 +92,12 @@ python3 -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
+Запустить игру:
+
+```bash
+python the_snake.py
+```
+
 <p align="right"><a href="#Start-point">Вернуться к началу</a></p>
 
 
