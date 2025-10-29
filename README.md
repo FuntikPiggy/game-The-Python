@@ -1,5 +1,5 @@
 <a name="Start-point"></a>
-# The snake<img align="right" width="60" height="60" alt="python_game" src="https://github.com/user-attachments/assets/d7d93d37-1303-4e6c-8a3f-10a63f639b45" />
+# The snake <img align="right" width="60" height="60" alt="python_game" src="https://github.com/user-attachments/assets/d7d93d37-1303-4e6c-8a3f-10a63f639b45" /> <a href='https://github.com/MShawon/github-clone-count-badge'><img alt='GitHub Clones' src='https://img.shields.io/badge/dynamic/json?color=success&label=They-have-already-cloned-it-now-it-is-your-turn&query=count&url=https://gist.githubusercontent.com/FuntikPiggy/cf15862c7435a7bebca5b23c41551b8e/raw/clone.json&logo=github'></a>
 
 
 <p align="right" style="font-size: 10px;">
